@@ -15,10 +15,14 @@
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
-    "twilio": "^3.0.0rc.14"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "twilio": "^3.0.0rc.14",
+    "twilio-chat": "^3.3.4"
   },
   "devDependencies": {
     "concurrently": "^3.4.0",
-    "dotenv": "^4.0.0"
+    "dotenv": "^4.0.0",
+    "react-scripts": "^3.4.1"
   }
 }
